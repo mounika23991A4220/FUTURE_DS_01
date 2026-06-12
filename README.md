@@ -3,3 +3,5 @@
 #Strategic Business Intelligence for Regional Sales Analytics(Interactive dashboard creation using PowerBi)
 ## Project Objective 
 To design and build an interactive business intelligence dashboard that transforms raw transactional data into actionable financial insights. The project aims to evaluate key performance indicators (KPIs)—including revenue, sales volume, and profit margins—while tracking temporal revenue trends and regional market distributions. Ultimately, this dashboard empowers stakeholders to identify high-value B2B customers, isolate underperforming regional markets, and optimize sales strategies for maximum profitability and it is annaual sales report from 2017 to 2020
+## Dataset used
+- <a href = "https://github.com/mounika23991A4220/FUTURE_DS_01/blob/main/db_dump_version_2.sql">Strategic Business Intelligence for Regional Sales data</a>
