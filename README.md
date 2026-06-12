@@ -14,4 +14,4 @@ To design and build an interactive business intelligence dashboard that transfor
 -  Are high-revenue markets also driving high profit margins, or are some volume-heavy regions operating at a loss?
 -  Which specific markets show a negative profit percentage, and where should leadership cut costs?
 - Dashboard Intreaction <a href = "https://github.com/mounika23991A4220/FUTURE_DS_01/blob/main/bussiness%20sales%201.png ">view dashboard </a>
-
+- Dashboard Interaction <a href = "https://github.com/mounika23991A4220/FUTURE_DS_01/blob/main/bussiness%20sales%202.png">dashboard</a>
